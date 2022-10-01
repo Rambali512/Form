@@ -1,0 +1,38 @@
+body {
+    background-image: url("bgimage.jpg");
+  }
+.container {
+    margin-top: 30px;
+    box-sizing: border-box;
+    border: 1px solid white ;
+    border-radius: 30px;
+    background-color: rgba(188, 218, 23, 0.6);
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+    
+}
+h1{
+    text-align: center;
+    font-size: 50px !important;
+    font-weight: bolder !important;
+}
+button{
+    background-color:darkgreen !important;
+}
+.main-wrapper {
+    margin-top: 30px;
+}
+
+.page-title {
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+}
+
+.school-registration-form {
+    width: 800px;
+    margin: auto;
+}
+
+.valid-feedback, .invalid-feedback {
+    display: block;
+}
